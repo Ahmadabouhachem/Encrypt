@@ -26,3 +26,4 @@ public class EncyrptMessage {
         return encryptedWord;
     }
 }
+//this is message to test a git course from terminal with git command on linux
